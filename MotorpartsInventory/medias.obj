@@ -1,0 +1,16 @@
+[
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"custom_servoy_theme_properties.less",
+typeid:37,
+uuid:"D3067962-B4F9-489F-9496-364AF4A78C30"
+},
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"MotorpartsInventory.less",
+typeid:37,
+uuid:"F71C76D4-9277-4690-B1CC-80DCA967B2A8"
+}
+]

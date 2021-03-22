@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/new_postgresql/suppliers",
+items:[
+{foreignColumnName:"supplierid",primaryDataProviderID:"itemid",typeid:23,uuid:"5D9F95D0-E4C9-4424-9A74-75FFF0DF1326"}
+],
+joinType:1,
+name:"items_to_suppliers",
+primaryDataSource:"db:/new_postgresql/items",
+typeid:22,
+uuid:"B382BDB2-125D-43D6-B6C8-8B7E7FAB6024"

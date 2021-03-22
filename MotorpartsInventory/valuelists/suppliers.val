@@ -1,0 +1,13 @@
+addEmptyValue:1,
+customProperties:"lazyLoading:false",
+dataProviderID1:"supplierid",
+dataProviderID2:"suppliername",
+dataSource:"db:/new_postgresql/suppliers",
+displayValueType:12,
+name:"suppliers",
+realValueType:12,
+returnDataProviders:3,
+showDataProviders:2,
+typeid:34,
+uuid:"C77CECAB-3CBF-43F7-8DF8-BE371AEB3BA3",
+valueListType:1
