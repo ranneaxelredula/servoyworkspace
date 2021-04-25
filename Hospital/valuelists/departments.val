@@ -1,0 +1,13 @@
+addEmptyValue:1,
+customProperties:"lazyLoading:false",
+dataProviderID1:"deptid",
+dataProviderID2:"deptname",
+dataSource:"db:/hospital/department",
+displayValueType:12,
+name:"departments",
+realValueType:4,
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+uuid:"4D4AD6D3-3285-454F-9159-BAF120B9D039",
+valueListType:1
